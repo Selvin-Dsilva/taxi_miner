@@ -1,6 +1,6 @@
 Big Data 2016 Project - Understanding NYC Taxi Usage
 
-This repository contains Python scripts to analyse NYC Yellow and Green Taxi trips taken during year the 2015 using Hadoop streaming and MapReduce on Amazon EMR cluster
+This repository contains Python scripts to analyse NYC Yellow and Green Taxi trips taken during year the 2015 using Hadoop streaming and MapReduce on Amazon EMR cluster.
 
 
 The repository has been structured as follows:
